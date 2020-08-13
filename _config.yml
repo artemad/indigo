@@ -12,11 +12,11 @@ picture: https://pbs.twimg.com/profile_images/595127104284565505/LtmLz1nl_400x40
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://artemad.github.io
+url: https://artemadams.github.io
 
 permalink: /:title/
 
@@ -39,7 +39,7 @@ instagram: artemadams
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: artemad
+github: artemadams
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
