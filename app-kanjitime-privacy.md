@@ -1,5 +1,5 @@
 ---
-title: "Kanji Time Privacy Policy"
+title: "Privacy Policy"
 layout: post
 date: 2020-12-07 12:00
 tag: jekyll
