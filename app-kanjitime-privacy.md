@@ -10,17 +10,17 @@ author: artemadams
 
 **Privacy Policy**
 
-Artem Adams built the Kanji Time app as a Freemium app. This SERVICE is provided by Artem Adams at no cost and is intended for use as is.
+Artem Adams built the LingoTime app as a Freemium app. This SERVICE is provided by Artem Adams at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Kanji Time unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at LingoTime unless otherwise defined in this Privacy Policy.
 
 **iCloud**
 
-Kanji Time stores some of your data in Apple’s iCloud service, such as subscription type for your account(s) and your progress, to enable some sync features between all devices signed into your Apple ID.
+LingoTime stores some of your data in Apple’s iCloud service, such as subscription type for your account(s) and your progress, to enable some sync features between all devices signed into your Apple ID.
 
 **Information Collection and Use**
 
